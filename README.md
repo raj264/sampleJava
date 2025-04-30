@@ -1,7 +1,7 @@
 Sample Java Spring Boot REST API
 This is a minimal Java Spring Boot application demonstrating basic REST API functionality, including GET and POST requests. It serves as a simple starting point for understanding Spring Boot and building RESTful services.
 
-🚀 Features
+ Features
 Spring Boot REST API
 
 Sample GET and POST endpoints
@@ -10,7 +10,7 @@ DTO usage for request body mapping
 
 Simple response handling
 
-📁 Project Structure
+ Project Structure
 css
 Copy
 Edit
@@ -46,7 +46,7 @@ GET /hello – Returns a simple greeting
 
 POST /postTest – Accepts a JSON request body and returns a response
 
-📫 Sample Request (POST /postTest)
+ Sample Request (POST /postTest)
 Request Body
 
 json
